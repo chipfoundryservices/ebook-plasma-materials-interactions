@@ -4,7 +4,7 @@
 This volume explores the complex atomic-scale physics and surface chemistry occurring at the interface between low-temperature reactive plasmas and semiconductor materials.
 
 ## Repository Contents
-- **`PREFACE.md`**: Charlie Munger's Inversion Principle applied to surface damage and kinetics.
+- **`PREFACE.md`**: The First-Principles Inversion Framework applied to surface damage and kinetics.
 - **`chapters/`**: 8 comprehensive technical chapters detailing Langmuir surface coverage, physical sputtering thresholds, fluorocarbon passivation, PID charging, low-k degradation, and chamber wall seasoning.
 - **`appendices/`**: Complete engineering glossary, mathematical derivations (Sigmund sputtering, fluorocarbon balance), surface metrology specs, and portfolio links.
 - **`book11-database-updates.sql`**: Production database keywords for MariaDB (CFS) and PostgreSQL (AMEM).

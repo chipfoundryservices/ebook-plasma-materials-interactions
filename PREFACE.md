@@ -8,7 +8,7 @@ If an etch process relied purely on chemical etching, reactions would proceed is
 
 **Ion-enhanced chemical etching—the non-linear synergy between chemical adsorption and physical ion bombardment—is the core physics engine of advanced microfabrication.**
 
-Following Charlie Munger's inversion principle, we ask: *What causes catastrophic failure at the plasma-surface interface?*
+Following The First-Principles Inversion Framework, we ask: *What causes catastrophic failure at the plasma-surface interface?*
 
 ### 1. Loss of Synergistic Selectivity
 When etching silicon dioxide ($\text{SiO}_2$) or silicon nitride ($\text{Si}_3\text{N}_4$) stopping on silicon, the steady-state fluorocarbon passivation layer must protect the silicon while allowing the dielectric to clear. A minute shift in ion energy or radical-to-ion ratio ($[CF_x]/[Ion]$) can trigger the "etch-to-deposition transition," either abruptly halting etch progress or punching through the underlying $2\text{nm}$ gate oxide.
